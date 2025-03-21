@@ -108,6 +108,33 @@ Lastly, we will configure Help Topics.
 
 Admin Panel -> Manage -> Help Topics
 
+"Business Critical Outage"
+
+![image](https://github.com/user-attachments/assets/eee55dd8-e142-48a5-8ea8-d99edfe2c183)
+
+"Personal Computer Issues"
+
+![image](https://github.com/user-attachments/assets/a76a94b7-b05e-4738-b395-0dd154ba65b1)
+
+"Equipment Request"
+
+![image](https://github.com/user-attachments/assets/940685aa-b458-4f01-8c54-0f6531f2fedd)
+
+"Password Reset"
+
+![image](https://github.com/user-attachments/assets/e125a61e-66fb-460b-b7d0-8485f44db3d1)
+
+"Other"
+
+![image](https://github.com/user-attachments/assets/cafcff18-aadc-4601-b6a1-2b1f63711c14)
+
+Congrats! This now fully configures our osTicket. I hope this guide was able to help clarify and assist you in setting up osTicket.
+
+
+
+
+
+
 
 
 
