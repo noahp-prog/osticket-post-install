@@ -80,11 +80,37 @@ Set password.
 
 ![image](https://github.com/user-attachments/assets/6b081c09-caca-49d3-9152-5018db0743d5)
 
-Now that the agents have been created, we are going to create a end user. (This is what we will use to create and solve mock tickets.)
+Now that the agents have been created, we are going to create an end user. (This is what we will use to create and solve mock tickets.)
 
 Admin Panel -> Users -> Create New
 
 ![image](https://github.com/user-attachments/assets/ec5f0327-2376-406a-a77d-1af0d7979d68)
+
+Now, we need to configure SLA.
+
+Admin Panel -> Manage -> SLA
+
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)</p>
+
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)</p>
+
+Sev-C (Grace Period: 8 hours, Business Hours)</p>
+
+![image](https://github.com/user-attachments/assets/e255ed8c-4a19-491c-a033-0d22deaad496)
+
+![image](https://github.com/user-attachments/assets/231bc552-7726-474b-93d5-f72a2769779d)
+
+![image](https://github.com/user-attachments/assets/d2a759e7-84e7-4fa1-a508-916995eabd37)
+
+![image](https://github.com/user-attachments/assets/79923d35-1cec-4157-8e07-60af79ce41d1)
+
+Lastly, we will configure Help Topics.
+
+Admin Panel -> Manage -> Help Topics
+
+
+
+
 
 
 
