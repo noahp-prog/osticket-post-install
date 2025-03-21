@@ -58,4 +58,36 @@ Admin Panel -> Settings -> User Settings
 
 ![image](https://github.com/user-attachments/assets/18aea986-937f-4b45-8ec2-c342faa81968)
 
+Next, create agent. Give "Supreme Admin" role.
+
+Admin Panel -> Agents -> Add New Agent
+
+![image](https://github.com/user-attachments/assets/6c9ab028-c0aa-4fc1-9115-c0e93afce4de)
+
+Set password.
+
+![image](https://github.com/user-attachments/assets/973a059a-06da-4862-98c8-7a7734c28dd6)
+
+![image](https://github.com/user-attachments/assets/c6ef084c-b43f-4891-a263-38940bf9dea2)
+
+Next, create another agent. Give "Support" role.
+
+![image](https://github.com/user-attachments/assets/2f25b05d-0836-4a55-bb92-4a4b21a6fc6c)
+
+Set password.
+
+![image](https://github.com/user-attachments/assets/d097516e-3238-406a-ab87-274754ba3d8d)
+
+![image](https://github.com/user-attachments/assets/6b081c09-caca-49d3-9152-5018db0743d5)
+
+Now that the agents have been created, we are going to create a end user. (This is what we will use to create and solve mock tickets.)
+
+Admin Panel -> Users -> Create New
+
+![image](https://github.com/user-attachments/assets/ec5f0327-2376-406a-a77d-1af0d7979d68)
+
+
+
+
+
 
